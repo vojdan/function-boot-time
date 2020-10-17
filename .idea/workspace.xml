@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b65ea8a-90a9-49bb-8230-3019605ea7b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1izlfqUqtsBjwtS9azewYXvTtMQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/functions/src/imports" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="google.settings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/functions/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/functions/src/imports" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/functions/src/imports" />
+      <recent name="$PROJECT_DIR$/functions/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b65ea8a-90a9-49bb-8230-3019605ea7b2" name="Default Changelist" comment="" />
+      <created>1602918407416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602918407416</updated>
+      <workItem from="1602918408616" duration="3532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="213" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602920024581">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="553" y="213" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1200@0.0.1920.1200" timestamp="1602920024581" />
+    <state x="661" y="162" width="1048" height="697" key="find.popup" timestamp="1602973662796">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="661" y="162" width="1048" height="697" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1602973662796" />
+    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup" timestamp="1602921168610">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1602921168610" />
+  </component>
+</project>
