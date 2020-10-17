@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602918407416</updated>
-      <workItem from="1602918408616" duration="3532000" />
+      <workItem from="1602918408616" duration="4168000" />
     </task>
     <servers />
   </component>
@@ -56,13 +56,13 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="553" y="213" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1200@0.0.1920.1200" timestamp="1602920024581" />
-    <state x="661" y="162" width="1048" height="697" key="find.popup" timestamp="1602973662796">
+    <state x="661" y="162" width="1048" height="697" key="find.popup" timestamp="1602975191878">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="661" y="162" width="1048" height="697" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1602973662796" />
-    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup" timestamp="1602921168610">
+    <state x="661" y="162" width="1048" height="697" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1602975191878" />
+    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup" timestamp="1602975026389">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1602921168610" />
+    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1602975026389" />
   </component>
 </project>
